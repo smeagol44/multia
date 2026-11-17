@@ -1,0 +1,4 @@
+APP_PASSWORD=replace-with-your-private-passphrase
+SESSION_SECRET=replace-with-a-random-signing-secret
+OPENAI_API_KEY=
+ANTHROPIC_API_KEY=
